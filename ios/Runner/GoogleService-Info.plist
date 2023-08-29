@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>810529287371-3csdhefie21k8a6qia2g6kfrpcb763up.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.810529287371-3csdhefie21k8a6qia2g6kfrpcb763up</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>810529287371-0ot3jefh72cp8o3g95glk18quu065k6j.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCmOf1jbwClEHpFsX9d1fhZEP8W1vRpHpY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>810529287371</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wolf.cafenakua</string>
+	<key>PROJECT_ID</key>
+	<string>menumalory</string>
+	<key>STORAGE_BUCKET</key>
+	<string>menumalory.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:810529287371:ios:bd06c329316124ccf03f4e</string>
+</dict>
+</plist>

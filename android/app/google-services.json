@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "810529287371",
+    "project_id": "menumalory",
+    "storage_bucket": "menumalory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810529287371:android:61bf309d5b3d5ad6f03f4e",
+        "android_client_info": {
+          "package_name": "com.wolf.cafenakua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810529287371-0ot3jefh72cp8o3g95glk18quu065k6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wolf.cafenakua",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "810529287371-tgvchkikqemaokuahksfkd179h8sggl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXgf5Ra7uAuba-aBBVf5kRmEm-0by3Tac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810529287371-tgvchkikqemaokuahksfkd179h8sggl8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810529287371-3csdhefie21k8a6qia2g6kfrpcb763up.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wolf.cafenakua"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
